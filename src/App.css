@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(192, 174, 189);
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+h1 {
+  color: #040a0e;
+  text-align: center;
+}
+
+p {
+  padding: 50px;
+  color: #040a0e;
+  text-align: center;
+  margin: top 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.theBox {
+  align-self: center;
+}
+
+.exp {
+  visibility: hidden;
+}
